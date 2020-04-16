@@ -1,0 +1,3 @@
+Note:
+
+Followed instructions for creating functions but having trouble with builds in travis, will do this for next lab
